@@ -71,7 +71,9 @@ button{
     font-size: 16px;
     color: rgb(255, 0, 132);
 
-
-  
-
+}
+@media(max-widht: 600px){
+    body{
+        font-size:16px;
+    }
 }
