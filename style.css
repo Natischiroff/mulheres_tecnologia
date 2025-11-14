@@ -51,9 +51,8 @@ button{
     font-size: 16px;
     color: rgb(255, 0, 132);
 
-
-    .rodape {
-    background-color: rgb(138, 79, 187);
+.rodape {
+    background-color: rgb(238, 13, 182);
     color: black;
     text-align: center;
     padding: 15px;
